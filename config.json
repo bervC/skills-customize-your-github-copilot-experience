@@ -65,6 +65,13 @@
       "description": "Build RESTful endpoints with FastAPI, including CRUD operations, request validation, and interactive API documentation.",
       "path": "assignments/fastapi-rest-apis",
       "dueDate": "2026-11-16"
+    },
+    {
+      "id": "fastapi-api-testing",
+      "title": "Testing FastAPI with pytest",
+      "description": "Write automated tests for FastAPI endpoints with pytest and TestClient, including CRUD behavior, validation, and not-found responses.",
+      "path": "assignments/fastapi-api-testing",
+      "dueDate": "2026-11-16"
     }
   ]
 }
